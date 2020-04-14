@@ -1,0 +1,50 @@
+img{
+   margin: 0 auto;
+   display: block;
+}
+.anchor {
+    font-size: 25px;
+}
+.field *{ 
+    vertical-align:top;
+}
+.container{
+    background-color: #6D64CD;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-weight: 300;
+    padding-left: 20px;
+    border: 2px solid black;
+    width: 1000px;
+    margin-left: 150px;
+    
+    
+}
+select{
+    background-color: white;
+}
+table{
+    text-align: left;
+
+    display: inline;
+  
+}
+input[type=submit]{
+    font-size: 15px;
+}
+.back{
+    font-size: 25px;
+}
+.link{
+    margin-top: 50px;
+}
+.link h2{
+    color: green;
+}
+.link h3{
+    color: purple;
+}
+.link a{
+    color: purple;
+}
