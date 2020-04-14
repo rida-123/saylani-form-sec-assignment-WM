@@ -17,6 +17,7 @@ img{
     padding-left: 20px;
     border: 2px solid black;
     width: 1000px;
+    margin-left: 170px;
  
     
     
@@ -31,6 +32,9 @@ table{
   
 }
 input[type=submit]{
+    font-size: 15px;
+}
+input[type=reset]{
     font-size: 15px;
 }
 .back{
